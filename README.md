@@ -4,8 +4,7 @@ Shopit is ecommerce native iOS app using Firebase, Swift 5, Xcode 14 with SwftUI
 # SetUp
 1) Install CocoaPods<br />
     -> You can utilize gem, rvm ruby, brew and others, or you can obtain the compiled macOS app from https://cocoapods.org<br />
-    -> Or You can add Google Firebase Pakage from File<br />
-    -> Add Packages...<br />
+    -> Or You can add Google Firebase Pakage from File - Add Packages...<br />
 2) Setup Your Own Firebase Account<br />
 3) Create a Firebase Project for this App<br />
     -> Login to your Firebase account<br />
