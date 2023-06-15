@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C0A6F74C-3CD6-4B20-9AC9-E1360E939DE6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81195D2A-F267-4E6D-B9F8-DEADBE35D6E2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shopit/Modules/Cart/ViewModel/CartViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "getCartProducts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "81195D2A-F267-4E6D-B9F8-DEADBE35D6E2 - cae0884670b19be1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shopit.CartViewModel.getCartProducts() -&gt; ()"
+                  moduleName = "Shopit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/niravkumarpatel/Desktop/Chicago%20State%20University/Project/Shopit/Shopit/Modules/Cart/ViewModel/CartViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "81195D2A-F267-4E6D-B9F8-DEADBE35D6E2 - 23f2f102f77c9bf6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in Shopit.CartViewModel.getCartProducts() -&gt; ()"
+                  moduleName = "Shopit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/niravkumarpatel/Desktop/Chicago%20State%20University/Project/Shopit/Shopit/Modules/Cart/ViewModel/CartViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "81195D2A-F267-4E6D-B9F8-DEADBE35D6E2 - cae0884670b19be1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shopit.CartViewModel.getCartProducts() -&gt; ()"
+                  moduleName = "Shopit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/niravkumarpatel/Desktop/Chicago%20State%20University/Project/Shopit/Shopit/Modules/Cart/ViewModel/CartViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "172">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
